@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Menu.unity
+    guid: 4ab842c4a8361da4db3f3168d89caee7
+  - enabled: 1
+    path: Assets/Scenes/Directions.unity
+    guid: 62a16c08766ea7e4c8070c080b7c4af5
+  - enabled: 1
+    path: Assets/Scenes/Directions 1.unity
+    guid: 66e26c979239de44b91ab0bc977aa0d1
+  - enabled: 1
+    path: Assets/Scenes/Song Selection.unity
+    guid: 2c8564b76f0c5f84581b19e5e1dacb73
+  - enabled: 1
+    path: Assets/Scenes/Chillcore.unity
+    guid: f55f6c09d60de7246961e20969f98879
+  - enabled: 1
+    path: Assets/Scenes/Kiss Me Again.unity
+    guid: 5c13adfe8fe72944fb808aa58719eb3e
+  - enabled: 1
+    path: Assets/Scenes/Running in the 90s.unity
+    guid: a7efac3f0da73e7439004acd29203987
+  - enabled: 1
+    path: Assets/Scenes/Sandstorm.unity
+    guid: b0929b40bfa702841a10b4e66715bad6
+  - enabled: 1
+    path: Assets/Scenes/Caramelldansen.unity
+    guid: f9e3653c0c89d2848a6825690175ff2d
+  - enabled: 1
+    path: Assets/Scenes/Deja Vu.unity
+    guid: f694a16c06d8dab429b494465331fafc
+  - enabled: 1
+    path: Assets/Scenes/Kamehameha.unity
+    guid: 3a7d86f1821e28f4db61a4f49166771e
+  - enabled: 1
+    path: Assets/Scenes/Harder, Better, Faster, Stronger.unity
+    guid: 34b37b54da3b8d94ca09f92e0c985e57
+  - enabled: 1
+    path: Assets/Scenes/Space Boy.unity
+    guid: ec151e98bab52ab48b57483f2aa212f8
+  - enabled: 1
+    path: Assets/Scenes/Neko  Nation Anthem.unity
+    guid: e074f33c8d246c64398841f0aab84b12
+  - enabled: 1
+    path: Assets/Scenes/One More Time.unity
+    guid: fbee55c9def6e5a4ea6c06b89f59b1bf
+  - enabled: 1
+    path: Assets/Scenes/Idol.unity
+    guid: 2f6f33cb12172064da3677f27c543679
+  - enabled: 1
+    path: Assets/Scenes/Settings.unity
+    guid: 97341a66fcaddf845ba2f0e544bbc369
+  m_configObjects: {}
